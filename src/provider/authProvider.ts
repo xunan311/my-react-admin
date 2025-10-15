@@ -1,6 +1,6 @@
 import { AuthProvider } from "react-admin";
 
-const API_URL = "http://localhost:8000";
+const API_URL = "http://192.168.1.231:8000";
 
 export const authProvider: AuthProvider = {
   // called when the user attempts to log in
