@@ -1,5 +1,9 @@
 # my-react-admin
 
+MS frontend based on react-admin. my-fast-api is MS backend.
+
+https://marmelab.com/react-admin/DataFetchingGuide.html
+
 ## Installation
 
 Install the application dependencies by running:
